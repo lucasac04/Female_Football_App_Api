@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Você sabia?",
-    "tag": "curiosidades, dia das mulheres",
+    "tag": "Curiosidades, Dia das Mulheres",
     "description": "Mulheres colecionam conquistas históricas no futebol; veja oito delas neste 8 de março.",
     "image": "https://github.com/lucasac04/-Female_Football_App_Api/1.jpg",
     "link": "https://ge.globo.com/pe/futebol/noticia/2022/03/08/voce-sabia-mulheres-colecionam-conquistas-historicas-no-futebol-veja-oito-delas-neste-8-de-marco.ghtml"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "title": "Dupla de respeito",
-    "tag": "Sul-Americano, feminino, Jhonson, Aline",
+    "tag": "Sul-Americano, Feminino, Jhonson, Aline",
     "description": "Com show da dupla Jhonson e Aline, Brasil estreia com vitória no Sul-Americano Feminino Sub-17.",
     "image": "https://github.com/lucasac04/-Female_Football_App_Api/3.jpg",
     "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/03/02/com-show-da-dupla-jhonson-e-aline-brasil-estreia-com-vitoria-no-sul-americano-feminino-sub-17.ghtml"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "title": "Estreia marcada",
-    "tag" : "São Paulo, feminino, camisa 10",
+    "tag" : "São Paulo, Feminino, Camisa 10",
     "description": "São Paulo divulga numeração do time feminino e tem nova camisa 10; veja lista.",
     "image": "https://github.com/lucasac04/-Female_Football_App_Api/4.jpg",
     "link": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2022/03/04/noticias-spfc-sao-paulo-numeracao-time-feminino-camisa-10-lista.ghtml"
